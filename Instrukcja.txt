@@ -1,0 +1,3 @@
+Instrukcja obsługi użytkownika
+
+Aby poprawnie uruchomić aplikację należy w programie Excel potwierdzić aplikację jako bezpiecznš oraz włšczyć obsługę makr.
